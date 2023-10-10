@@ -1,0 +1,59 @@
+In java_tasks, The task_one is the problem one of the first hometask 1: 
+
+Input Values:
+
+The code is designed to use the Earth's diameter and the Sun's diameter as input.
+You can change these values in the main method of the code by modifying the variables Sun_Diameter and Earth_Diameter.
+
+Observe Output:
+
+The code will calculate the volumes of the Earth and the Sun and the ratio between them.
+It will print the results to the console.
+
+Review Results:
+
+The code will display the volume of the Earth, the volume of the Sun, and the ratio of the Sun's volume to the Earth's volume.
+
+
+
+
+
+
+
+In java_tasks, The task_two is the problem one of the first hometask 2: 
+
+This Java program, Task_two, is designed to find and print prime numbers within a specified range. The program defines a range of values (from 2 to nValues) and then iterates through the values, checking if each value is prime. If a value is prime, it is printed to the console. 
+
+Input: The program uses a constant value nValues set to 50, which defines the range of values to check for prime numbers. You can modify the nValues variable in the code to specify a different range if needed.
+
+Output: When you run the program, it will print prime numbers within the specified range to the console.
+
+
+
+
+
+
+
+
+In java_tasks, The task_Three is the problem one of the first hometask 3: 
+
+This Java program, Task_three, is designed to analyze a given text and count the number of vowels, consonants, and spaces in the text. It processes the input text and provides a summary of these counts.
+
+Input: The program comes with a predefined input text. You can modify the text variable in the code to analyze different text inputs.
+
+Output: When you run the program, it will process the input text and display the counts of vowels, consonants, and spaces in the text.
+
+
+
+
+
+
+
+In java_tasks, The task_Four is the problem four of the first hometask 4: 
+
+Input: The program uses a predefined input string S. You can modify the S variable in the code to analyze different input strings.
+
+Output: When you run the program, it will split the input string into words, sort them alphabetically, and display the sorted list of words.
+
+
+
