@@ -1,3 +1,6 @@
+Name: Amr Abdrabo Mohamed Abdrabo Abdelaziz
+Matriculation number: 7216843
+
 In java_tasks, The task_one is the problem one of the first hometask 1: 
 
 Input Values:
